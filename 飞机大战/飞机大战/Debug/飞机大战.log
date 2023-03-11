@@ -1,0 +1,4 @@
+﻿  源.cpp
+E:\VS\code\飞机大战\飞机大战\源.cpp(50,27): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+E:\VS\code\飞机大战\飞机大战\源.cpp(453,21): warning C4018: “<”: 有符号/无符号不匹配
+  飞机大战.vcxproj -> E:\VS\code\飞机大战\Debug\飞机大战.exe
